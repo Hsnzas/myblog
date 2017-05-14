@@ -1,0 +1,12 @@
+
+
+
+
+const actionTypes = {
+  CHANGE_ACTIVE_MENU_ITEM: 'CHANGE_ACTIVE_MENU_ITEM',
+  INCREMENT: 'INCRENENT',
+  SEARCH_RESULTS: 'SEARCH_RESULTS',
+  ADD_COORDS:'ADD_COORDS'
+};
+
+export default actionTypes;

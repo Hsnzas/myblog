@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-geolocated": "^1.0.3",
+    "react-google-maps": "^6.3.0",
+    "react-router-dom": "^4.1.1"
+  }
+}
